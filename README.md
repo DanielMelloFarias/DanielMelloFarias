@@ -1,5 +1,5 @@
 <p align="justify">
-  <b>Minha carreira combina expertise técnica em engenharia, computação e saúde com uma dedicação profunda à transformação digital e inovação em IA e dados, capacitando-me a transformar desafios complexos em soluções inovadoras. Lidero com inspiração no desenvolvimento de tecnologias avançadas, visando projetos impactantes e resultados excepcionais que demonstram o poder da tecnologia e inovação em variados setores.</b>
+  <b>Minha carreira combina expertise técnica em engenharia, computação, saúde e mercado financeiro com uma dedicação profunda à transformação digital, inovação em IA e dados, capacitando-me a transformar desafios complexos em soluções inovadoras. Lidero com inspiração no desenvolvimento de tecnologias avançadas, visando projetos impactantes e resultados excepcionais que demonstram o poder da tecnologia e inovação em variados setores.</b>
 </p>
 
 
